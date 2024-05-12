@@ -1,0 +1,7 @@
+Hey every miaou,
+
+Here I'm going to write my program step by step,
+Executable software(.exe) using only python3
+System call to take some information about computer.
+Server and client linked to a dashboard. 
+And cryptography execise for fun. 
